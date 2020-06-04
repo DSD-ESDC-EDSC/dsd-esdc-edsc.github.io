@@ -3,7 +3,7 @@
 </div>
 
 # dsd-esdc-edsc.github.io
-Organization Site.
+Data Science Team of ESDC
 
 # Open Projects
 Open project description would go here.
