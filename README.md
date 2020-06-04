@@ -1,14 +1,12 @@
 
 ***DRAFT...UNDER DEVELOPMENT
 
-
-
 <div style="text-align: right;">
     <a href="https://dsd-esdc-edsc.github.io/README.fr.html">Fr</a>
 </div>
 
 # Open Projects from the Data Science Team of ESDC
-***Open Source. Open Data. Open Collaboration
+Open Source. Open Data. Open Collaboration
 
 ## What is an Open Project?
 An Open Project is defined here as a project that, wherever possible, is executed using open source tools, open code, open data, and open development for the purpose of facilitating sharing and collaboration. In this light, for projects of an unsensitive nature and that do not relate to protected data, the Data Science Team endevours to share the work on their Team GitHub page. While details vary from project to project, this generally means that project artifacts such as code, documentation, and more will be made available through GitHub.
