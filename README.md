@@ -5,7 +5,7 @@
     <a href="https://dsd-esdc-edsc.github.io/README.fr.html">Fr</a>
 </div>
 
-# _Open Projects from the Data Science Team of ESDC_
+# _Open Projects - Data Science Team of ESDC_
 _Open Source. Open Data. Open Collaboration_
 
 View content as a [webpage](https://dsd-esdc-edsc.github.io/)
