@@ -19,5 +19,7 @@ Additionally, we want to encourage open collaboration. The most important thing 
 ## What does this mean?
 The links below bring you to each of the Data Science Team's open projects and to their Github pages, which contain further information. Please reuse any/all of the components of these projects - see specific open licenses for details.
 
-### Dynamic Org Chart
+# Current Open Projects
+
+## Dynamic Org Chart
 The Dynamic Org Chart (DOC) project aims to create an interactive org chart and employee directory for the Government of Canada based open GEDS data. Click [here](https://dsd-esdc-edsc.github.io/dynamic-org-chart/) to learn more about the DOC project.
