@@ -4,7 +4,7 @@
 <div style="text-align: right;">
     <a href="https://dsd-esdc-edsc.github.io/README.fr.html">Fr</a>
 </div>
-View content as a [webpage](https://dsd-esdc-edsc.github.io/)
+[View content as a webpage](https://dsd-esdc-edsc.github.io/)
 
 
 # _Open Projects from the Data Science Team of ESDC_
