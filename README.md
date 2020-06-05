@@ -7,7 +7,7 @@
 
 View content as a [webpage](https://dsd-esdc-edsc.github.io/)
 
-# _Open Projects - Data Science Team of ESDC_
+# _Open Projects at the Data Science Division of ESDC_
 _Open Source. Open Data. Open Collaboration_
 
 ## What is an Open Project?
