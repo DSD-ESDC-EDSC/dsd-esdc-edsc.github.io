@@ -19,7 +19,7 @@ Duplication of work is inefficient. Inevidably, work tends to get duplicated whe
 Additionally, we want to encourage open collaboration. The most important thing is that projects get completed and add value. Working in the open allows for others to easily add to what already exists, effectively disributing development costs and improving the probability of success for all.
 
 ## What does this mean?
-The section below describes each of the Data Science Team's open projects and provides links to their Github pages, which contain further information. Please reuse any/all of the components of these projects - see specific open licenses for details.
+The section below describes each of the Data Science Team's open projects and provides links to their Github pages, which contain further information. Please reuse any or all components of these projects - see specific open licenses for details.
 
 ## Current Open Projects
 
