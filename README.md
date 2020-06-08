@@ -8,8 +8,10 @@
 # _Open Projects at the Data Science Division of ESDC_
 _Open Source. Open Data. Open Collaboration._
 
+The Data Science Division at ESDC (Chief Data Office) takes on projects related to leveraging advanced analytical techniques as well as exploring various tools and inovative ideas. Many of these projects involve the development of code and applications. Wherever possible, the ideas of an Open Project are followed.
+
 ## What is an Open Project?
-An Open Project is defined here as a project that, wherever possible, is executed using open source tools, open code, open data, and open development for the purpose of facilitating sharing and collaboration. In this light, for projects of an unsensitive nature and that do not relate to protected data, the Data Science Team endeavours to share the work on their Team GitHub page. While details vary from project to project, this generally means that project artifacts such as code, documentation, and more will be made available through GitHub.
+An Open Project is defined here as a project that is executed using open source tools, open code, open data, and open development for the purpose of facilitating sharing and collaboration. In this light, for projects of an unsensitive nature and that do not relate to protected data, the Data Science Team endeavours to share the work on their Team GitHub page. While details vary from project to project, this generally means that project artifacts such as code, documentation, and more will be made available through GitHub.
 
 ## Why Open Source?
 Duplication of work is inefficient. Inevitably, work tends to get duplicated when it is not shared. Through open sourcing projects, the hope is that this will reduce duplication of work by making our progress on these projects transparent.
