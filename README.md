@@ -28,7 +28,7 @@ The Dynamic Org Chart (DOC) project aims to create an interactive org chart and 
 
 # Related Goverment of Canada Open Project Repositories
 
-**Statistics Canada Center for Special Business Projects:** Repository of exploratory and experimental open projects, https://github.com/CSBP-CPSE 
+**_Center for Special Business Projects_ (Statistics Canada):** Repository of exploratory and experimental open projects, https://github.com/CSBP-CPSE 
 
 
 
