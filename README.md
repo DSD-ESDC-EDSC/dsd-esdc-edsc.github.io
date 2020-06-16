@@ -25,3 +25,12 @@ The section below describes each of the Data Science Team's open projects and pr
 
 ### Dynamic Org Chart
 The Dynamic Org Chart (DOC) project aims to create an interactive org chart and employee directory for the Government of Canada based on open GEDS data. Visit the repo for [DOC](https://dsd-esdc-edsc.github.io/dynamic-org-chart/) to learn more about this project.
+
+# Related Goverment of Canada Open Project Repositories
+
+**Center for Special Business Projects**
+Repository of exploratory and experimental open projects
+https://github.com/CSBP-CPSE 
+
+
+
