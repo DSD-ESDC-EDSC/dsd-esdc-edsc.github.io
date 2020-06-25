@@ -23,11 +23,11 @@ En outre, nous encourageons la collaboration ouverte. Le plus important est que 
 
 La section ci-dessous décrit chacun des projets ouverts de l'équipe scientifique des données et fournit des liens vers leurs pages GitHub, qui contiennent de plus amples informations. Veuillez réutiliser tout ou partie des éléments de ces projets - voir les licences ouvertes spécifiques pour plus de détails.
 
-#Projets ouverts en cours
+# Projets ouverts en cours
 
 Organigramme dynamique
 Le projet d'organigramme dynamique (DOC) vise à créer un organigramme interactif et un répertoire des employés pour le gouvernement du Canada, basé sur des données GEDS ouvertes. Visitez le site du [DOC](https://github.com/DSD-ESDC-EDSC/dynamic-org-chart/blob/master/README.fr.md) pour en savoir plus sur ce projet.
 
-#Dépôts de projets ouverts connexes du gouvernement du Canada
+# Dépôts de projets ouverts connexes du gouvernement du Canada
 
 Centre des projets spéciaux sur les entreprises (Statistique Canada) : Dépôt de projets exploratoires et expérimentaux ouverts, https://github.com/CSBP-CPSE
