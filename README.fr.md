@@ -11,7 +11,7 @@ La division des sciences des données de l'EDSC (Bureau de la dirigeante princip
 
 # Qu'est-ce qu'un projet ouvert ?
 
-Un projet ouvert est utilisé ici pour faire référence à un projet qui est exécuté en utilisant des outils à source ouverte, un code ouvert, des données ouvertes et un développement ouvert dans le but de faciliter le partage et la collaboration. Dans cette optique, pour les projets de nature non sensible qui ne concernent pas des données protégées, l'équipe scientifique des données s'efforce de partager le travail sur sa page Team GitHub. Bien que les détails varient d'un projet à l'autre, cela signifie généralement que les artefacts du projet tels que le code, la documentation et autres sont disponibles ouvertement.
+Le terme projet ouvert est utilisé ici pour faire référence à un projet qui est exécuté en utilisant des outils à source ouverte, un code ouvert, des données ouvertes et un développement ouvert dans le but de faciliter le partage et la collaboration. Dans cette optique, pour les projets de nature non sensible qui ne concernent pas des données protégées, l'équipe scientifique des données s'efforce de partager le travail sur sa page GitHub. Bien que les détails varient d'un projet à l'autre, cela signifie généralement que les artefacts du projet tels que le code, la documentation et autres sont disponibles ouvertement.
 
 # Pourquoi source ouvertes ?
 
