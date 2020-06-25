@@ -1,5 +1,4 @@
-
-***DRAFT...UNDER DEVELOPMENT
+***DRAFT - UNDER DEVELOPMENT
 
 <div style="text-align: right;">
     <a href="https://dsd-esdc-edsc.github.io/README.fr.html">Français</a>
