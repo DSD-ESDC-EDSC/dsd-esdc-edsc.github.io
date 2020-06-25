@@ -30,4 +30,4 @@ Le projet d'organigramme dynamique (DOC) vise à créer un organigramme interact
 
 # Dépôts de projets ouverts connexes du gouvernement du Canada
 
-**_Centre des projets spéciaux sur les entreprises_** (Statistique Canada) : Dépôt de projets exploratoires et expérimentaux ouverts, https://github.com/CSBP-CPSE
+**_Centre des projets spéciaux sur les entreprises_ (Statistique Canada)** : Dépôt de projets exploratoires et expérimentaux ouverts, https://github.com/CSBP-CPSE
